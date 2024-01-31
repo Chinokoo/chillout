@@ -4,7 +4,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata = {
   title: "Auth",
-  description: "Social Media Application",
+  description: "Chillout Social Media Application",
 };
 
 const inter = Inter({ subsets: ["latin"] });
